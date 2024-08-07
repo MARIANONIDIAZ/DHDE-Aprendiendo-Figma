@@ -4,11 +4,13 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 Miembros del Equipo
 Miembro 1: Mariano Nicolas Diaz
-
-Rol: Investigación sobre las funcionalidades principales de Figma
-Contribuciones: Breve descripción de las contribuciones
 Miembro 2: Silvana Agustina Cruz
 
+Miembro 1: Mariano Nicolas Diaz
+Rol: Investigación sobre las funcionalidades principales de Figma
+Contribuciones: Breve descripción de las contribuciones
+
+Miembro 2: Silvana Agustina Cruz
 Rol: Investigación sobre los casos de uso de Figma
 Contribuciones: Breve descripción de las contribuciones
 
