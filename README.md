@@ -29,5 +29,9 @@ Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de
 Figma es una herramienta poderosa para diseñadores y equipos de diseño que buscan colaborar y crear experiencias de usuario excepcionales.
 
 Casos de Uso de Figma
-(Aquí el miembro 2 debe agregar información sobre los casos de uso de Figma en diseño y prototipado)
+
+Figma es una versátil herramienta de diseño y creación de prototipos que permite a los diseñadores y los equipos crear prototipos interactivos, colaborar sin problemas y dar vida a sus ideas creativas. Ofrece una amplia gama de funciones para diseñar y crear prototipos de interfaces web y móviles, lo que la convierte en un recurso valioso para los profesionales y los equipos de diseño que buscan optimizar su flujo de trabajo. Consulta estos recursos de creación de prototipos de Figma.
+
+prototipos
+La creación de prototipos es una etapa esencial en el proceso de diseño que requiere la creación de modelos o representaciones interactivas de un producto o un sistema. Estos prototipos actúan como representaciones tangibles, visuales y funcionales del diseño final. Los prototipos permiten a los diseñadores, cualquiera implicado en el proyecto y los usuarios probar y validar conceptos, interacciones y funcionalidades. La creación de prototipos ayuda a los diseñadores a identificar problemas potenciales, refinar ideas y confirmar que el producto final satisfaga las necesidades y las expectativas de los usuarios.
 
